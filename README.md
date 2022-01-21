@@ -1,5 +1,7 @@
 # contador_estabelecimento
 
+![Home](https://i.imgur.com/r7E8Aii.png)
+
 A new Flutter project.
 
 ## Getting Started
